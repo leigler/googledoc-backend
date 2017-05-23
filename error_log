@@ -1,0 +1,114 @@
+[24-Mar-2017 05:35:10 America/Denver] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message '{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "insufficientFilePermissions",
+    "message": "The user does not have sufficient permissions for this file."
+   }
+  ],
+  "code": 403,
+  "message": "The user does not have sufficient permissions for this file."
+ }
+}
+' in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), NULL)
+#1 [internal function]: Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), NULL)
+#2 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Task/Runner.php(181): call_user_func_array(Array, Array)
+#3 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/ in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php on line 118
+[24-Mar-2017 05:35:10 America/Denver] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message '{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "insufficientFilePermissions",
+    "message": "The user does not have sufficient permissions for this file."
+   }
+  ],
+  "code": 403,
+  "message": "The user does not have sufficient permissions for this file."
+ }
+}
+' in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), NULL)
+#1 [internal function]: Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), NULL)
+#2 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Task/Runner.php(181): call_user_func_array(Array, Array)
+#3 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/ in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php on line 118
+[24-Mar-2017 05:35:14 America/Denver] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message '{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "insufficientFilePermissions",
+    "message": "The user does not have sufficient permissions for this file."
+   }
+  ],
+  "code": 403,
+  "message": "The user does not have sufficient permissions for this file."
+ }
+}
+' in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), NULL)
+#1 [internal function]: Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), NULL)
+#2 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Task/Runner.php(181): call_user_func_array(Array, Array)
+#3 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/ in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php on line 118
+[24-Mar-2017 05:36:03 America/Denver] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message '{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "insufficientFilePermissions",
+    "message": "The user does not have sufficient permissions for this file."
+   }
+  ],
+  "code": 403,
+  "message": "The user does not have sufficient permissions for this file."
+ }
+}
+' in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), NULL)
+#1 [internal function]: Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), NULL)
+#2 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Task/Runner.php(181): call_user_func_array(Array, Array)
+#3 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/ in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php on line 118
+[24-Mar-2017 05:36:07 America/Denver] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message '{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "insufficientFilePermissions",
+    "message": "The user does not have sufficient permissions for this file."
+   }
+  ],
+  "code": 403,
+  "message": "The user does not have sufficient permissions for this file."
+ }
+}
+' in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), NULL)
+#1 [internal function]: Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), NULL)
+#2 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Task/Runner.php(181): call_user_func_array(Array, Array)
+#3 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/ in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php on line 118
+[24-Mar-2017 06:30:55 America/Denver] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message '{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "insufficientFilePermissions",
+    "message": "The user does not have sufficient permissions for this file."
+   }
+  ],
+  "code": 403,
+  "message": "The user does not have sufficient permissions for this file."
+ }
+}
+' in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php:118
+Stack trace:
+#0 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php(94): Google_Http_REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), NULL)
+#1 [internal function]: Google_Http_REST::doExecute(Object(GuzzleHttp\Client), Object(GuzzleHttp\Psr7\Request), NULL)
+#2 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Task/Runner.php(181): call_user_func_array(Array, Array)
+#3 /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/ in /home2/lukasism/public_html/staging/aiga-cdn/google-api-php-client-2.1.1/src/Google/Http/REST.php on line 118

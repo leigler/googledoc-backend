@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/html-to-markdown": "^4.4",
+        "erusev/parsedown": "^1.6"
+    }
+}
